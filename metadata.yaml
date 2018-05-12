@@ -1,4 +1,8 @@
 _repo: The-Nakimu-Caves-Glacier-Dominion-Park-B-C_51042
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51042-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51042#The-Nakimu-Caves-Glacier-Dominion-Park-B-C
 gutenberg_issued: '2016-01-26'
 gutenberg_type: Text
 identifiers:
